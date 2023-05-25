@@ -33,7 +33,7 @@ Here are some of the technologies I work with on a daily basis:
 
 If you have any questions or would like to get in touch with me, feel free to send me an email at dreamjob0415@gmail.com or connect with me:
 
-* [Skype](ID : live:.cid.88e793acc2fa6234)
+* [Skype](ID : live:.cid.31ab09237fd56486)
 * [discord](ID : Sakuragi#1910)
 
 I'm always happy to chat and collaborate with other developers.
@@ -77,7 +77,7 @@ I hope you find something here that inspires you.
 
 ご質問がある場合、または私と連絡を取りたい場合は、dreamjob0415@gmail.com でメールを送るか、私と接続すること自由に感じなさい：
 
-* [Skype](ID : live:.cid.88e793acc2fa6234)
+* [Skype](ID : live:.cid.31ab09237fd56486)
 * [discord](ID : Sakuragi#1910)
 
 私はいつも他の開発者とチャットやコラボレーションをするのが大好きです。
